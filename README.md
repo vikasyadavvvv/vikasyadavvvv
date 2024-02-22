@@ -18,7 +18,7 @@
 
 
 📚 **Education:**
-- BSc in Information Technology [@YourUniversity](link)
+- BSc in Information Technology 
 
 
 💡 **Goals:**
