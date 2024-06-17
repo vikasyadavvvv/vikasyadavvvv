@@ -1,7 +1,7 @@
 👋 Hello World! I'm Vikas Yadav, a passionate BSc IT student 🎓 with a keen interest in technology and software development. Currently exploring the vast world of coding and eager to contribute to innovative projects.
 
 🚀 **Skills:**
-- Web Development: HTML, CSS, JavaScript, Nodejs, Express.
+- Web Development: HTML, CSS, JavaScript, Nodejs, Express,React js .
 - Database Management: MySQL,Mongodb
 - Version Control: Git, GitHub
 - - Programming Languages: C++, Python :- Basic Level
