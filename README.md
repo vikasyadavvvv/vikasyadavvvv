@@ -50,6 +50,10 @@ Currently exploring the intersection of AI and web development.
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
+![VAPI](https://img.shields.io/badge/VAPI-000000?style=for-the-badge&logo=vapi&logoColor=white)
+![Voice Tools](https://img.shields.io/badge/Voice_Tools-4285F4?style=for-the-badge&logo=google-assistant&logoColor=white)
 
 ### 🤖 Special Interests
 ![AI](https://img.shields.io/badge/AI-FFD700?style=for-the-badge&logo=openai&logoColor=black)
