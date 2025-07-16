@@ -91,12 +91,6 @@ Sandesh College of Arts, Commerce, and Science, Mumbai
 
 ---
 
-## 💡 Featured Projects
-
-1. **College Management System** - MERN stack portal with Cloudinary integration
-2. **AI Voice Assistant** - Gemini + Vapi integration
-3. **Real-Time Chat App** - Socket.io + JWT authentication
-
 ---
 
 ## 📫 Let's Connect!
