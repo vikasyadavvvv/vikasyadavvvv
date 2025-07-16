@@ -1,66 +1,118 @@
-👋 Hello World! I'm **Vikas Yadav**, a passionate and driven **B.Sc. IT graduate** 🎓 with a deep enthusiasm for **software development** and real-world tech innovation. I'm actively building full-stack applications and exploring cutting-edge technologies that power modern digital experiences.
+# 👋 Hello World! I'm Vikas Yadav 
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Tech+Innovator;Open-Source+Contributor" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://vikasyadavv.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vy532555@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
-🚀 **Skills & Technologies**
+## 🚀 About Me
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Shadcn UI  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Full-Stack Frameworks:** Next.js  
-- **State Management:** Redux, Zustand  
-- **Databases:** MongoDB, Convex  
-- **Authentication:** Clerk  
-- **AI & Voice Integration:** Gemini AI, Vapi (Voice AI Platform)  
-- **Version Control:** Git, GitHub  
-- **Programming Languages:** JavaScript
-- **Others:** Socket.io, Cloudinary, Postman  
+🎓 **B.Sc IT Graduate** | 💻 **Full-Stack Developer** | 🤖 **AI Explorer**
+
+> "I blend logic with creativity to build digital experiences that matter"
+
+Passionate developer with expertise in building modern web applications using JavaScript ecosystems. Currently exploring the intersection of AI and web development.
 
 ---
 
-🌱 **Currently Learning**
+## 🛠 Tech Stack
 
-- Advanced **Full-Stack Development** with Next.js & TypeScript  
-- Real-time applications using **WebSockets** and **Server Components**  
-- Exploring **AI Integration** with LLMs and Voice Assistants  
-- Improving system design, architecture, and deployment practices  
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+### ⚙ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-🤝 **Open to Collaboration**
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-- 🔧 Looking to contribute to **innovative, impactful** projects  
-- 🤝 Always eager to learn from the community and grow together  
-- 🌐 Open to freelance, internships, and collaborative dev work  
-
----
-
-📚 **Education**
-
-- 🎓 Bachelor of Science in Information Technology (BSc IT) — **Completed**  
-- 🏫 Sandesh College of Arts, Commerce, and Science, Mumbai  
-
----
-
-🎯 **Goals**
-
-- Build products that improve people’s lives using tech  
-- Contribute to open-source and learn from the global developer ecosystem  
-- Push the boundaries of creativity in code  
+### 🤖 Special Interests
+![AI](https://img.shields.io/badge/AI-FFD700?style=for-the-badge&logo=openai&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Voice AI](https://img.shields.io/badge/Voice_AI-00C4CC?style=for-the-badge&logo=sonos&logoColor=white)
 
 ---
 
-🎨 **Fun Fact**
+## 🌱 Currently Learning
 
-> “I treat my code like a canvas — every line is a brushstroke blending logic and creativity.”
-
----
-
-🔗 **Let’s Connect**
-
-- 📧 vy532555@gmail.com  
-- 🌐 [Portfolio](https://vikasyadavv.netlify.app)  
-- 💻 [GitHub](https://github.com/vikasyadavvvv)  
+- Advanced **Next.js** with App Router
+- **TypeScript** for robust development
+- **WebSockets** for real-time apps
+- **AI Integration** patterns
 
 ---
 
-**Let’s connect, collaborate, and create tech that matters! 💻✨**
+## 📚 Education
+
+**Bachelor of Science in Information Technology**  
+Sandesh College of Arts, Commerce, and Science, Mumbai  
+*Completed*
+
+---
+
+## 🎯 Goals
+
+- Build impactful products that solve real problems
+- Contribute to meaningful open-source projects
+- Master full-stack development with modern architectures
+- Explore AI-powered application development
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikasyadavvvv&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasyadavvvv&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 💡 Featured Projects
+
+1. **College Management System** - MERN stack portal with Cloudinary integration
+2. **AI Voice Assistant** - Gemini + Vapi integration
+3. **Real-Time Chat App** - Socket.io + JWT authentication
+
+---
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://vikas-yadav.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vikas-yadav-1916002a6/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vy532555@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikasyadavvvv&label=Profile%20views&color=0e75b6&style=flat" alt="vikasyadavvvv" /> 
+</div>
