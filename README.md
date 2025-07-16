@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://vikasyadavv.netlify.app" target="_blank">
+  <a href="https://vikas-yadav.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
