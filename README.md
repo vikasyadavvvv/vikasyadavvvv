@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Vikas Yadav
+# ✨ Hello World! I'm Vikas Yadav
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Tech+Innovator;Open-Source+Contributor" alt="Typing SVG" />
