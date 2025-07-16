@@ -78,7 +78,7 @@ Currently exploring the intersection of AI and web development.
 ## ![education](https://img.shields.io/badge/-Education-000?style=flat-square&logo=googleclassroom)
 
 **Bachelor of Science in Information Technology**  
-Sandesh College of Arts, Commerce, and Science, Mumbai  
+Sandesh College of Arts, Commerce, and Science (Mumbai University) 
 *Completed*
 
 ---
