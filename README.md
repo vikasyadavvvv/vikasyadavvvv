@@ -1,4 +1,4 @@
-## ![about](https://img.shields.io/badge/About_Me-%F0%9F%9A%80-informational) Hello World! I'm Vikas Yadav 
+# 👋 Hello World! I'm Vikas Yadav
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Tech+Innovator;Open-Source+Contributor" alt="Typing SVG" />
@@ -8,8 +8,8 @@
   <a href="https://vikas-yadav.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/vikas-yadav-1916002a6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vy532555@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -18,17 +18,18 @@
 
 ---
 
-## 🚀 About Me
+## ![about](https://img.shields.io/badge/-About_Me-000?style=flat-square&logo=About.me)
 
 🎓 **B.Sc IT Graduate** | 💻 **Full-Stack Developer** | 🤖 **AI Explorer**
 
 > "I blend logic with creativity to build digital experiences that matter"
 
-Passionate developer with expertise in building modern web applications using JavaScript ecosystems. Currently exploring the intersection of AI and web development.
+Passionate developer with expertise in building modern web applications using the JavaScript ecosystem.  
+Currently exploring the intersection of AI and web development.
 
 ---
 
-## 🛠 Tech Stack
+## ![tech](https://img.shields.io/badge/-Tech_Stack-000?style=flat-square&logo=stackshare)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,7 +57,7 @@ Passionate developer with expertise in building modern web applications using Ja
 
 ---
 
-## 🌱 Currently Learning
+## ![learning](https://img.shields.io/badge/-Currently_Learning-000?style=flat-square&logo=bookstack)
 
 - Advanced **Next.js** with App Router
 - **TypeScript** for robust development
@@ -65,7 +66,7 @@ Passionate developer with expertise in building modern web applications using Ja
 
 ---
 
-## 📚 Education
+## ![education](https://img.shields.io/badge/-Education-000?style=flat-square&logo=googleclassroom)
 
 **Bachelor of Science in Information Technology**  
 Sandesh College of Arts, Commerce, and Science, Mumbai  
@@ -73,7 +74,7 @@ Sandesh College of Arts, Commerce, and Science, Mumbai
 
 ---
 
-## 🎯 Goals
+## ![goals](https://img.shields.io/badge/-Goals-000?style=flat-square&logo=target)
 
 - Build impactful products that solve real problems
 - Contribute to meaningful open-source projects
@@ -82,7 +83,7 @@ Sandesh College of Arts, Commerce, and Science, Mumbai
 
 ---
 
-## 📊 GitHub Stats
+## ![stats](https://img.shields.io/badge/-GitHub_Stats-000?style=flat-square&logo=github)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikasyadavvvv&show_icons=true&theme=radical" />
@@ -91,16 +92,14 @@ Sandesh College of Arts, Commerce, and Science, Mumbai
 
 ---
 
----
-
-## 📫 Let's Connect!
+## ![connect](https://img.shields.io/badge/-Let's_Connect-000?style=flat-square&logo=Handshake)
 
 <p align="center">
   <a href="https://vikas-yadav.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/vikas-yadav-1916002a6/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vy532555@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
