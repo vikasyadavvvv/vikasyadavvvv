@@ -54,6 +54,9 @@ Currently exploring the intersection of AI and web development.
 ![Clerk](https://img.shields.io/badge/Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
 ![VAPI](https://img.shields.io/badge/VAPI-000000?style=for-the-badge&logo=vapi&logoColor=white)
 ![Voice Tools](https://img.shields.io/badge/Voice_Tools-4285F4?style=for-the-badge&logo=google-assistant&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### 🤖 Special Interests
 ![AI](https://img.shields.io/badge/AI-FFD700?style=for-the-badge&logo=openai&logoColor=black)
